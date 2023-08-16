@@ -4,6 +4,8 @@ Welcome to System Utilities, a modern GUI app designed for Windows system.
 
 ![preview](https://github.com/iamironman0/system-utilities-modern-app/assets/63475761/d9ccb2ea-0043-448a-b122-fdcb8209eab7)
 
+> Note! the app is not optimized
+
 ### Features
 - Real-time System Monitoring
 - Comprehensive System Information
